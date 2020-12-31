@@ -1,3 +1,13 @@
+#Source from 
+https://github.com/ethand91/mediasoup3-wsdemo
+
+```bash
+to run angular sample
+cd angular-9-app
+npm i
+npm run start
+```
+
 # Mediasoup3 WS Demo
 
 ---
