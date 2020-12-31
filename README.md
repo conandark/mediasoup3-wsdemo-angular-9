@@ -7,6 +7,12 @@ cd angular-9-app
 npm i
 npm run start
 ```
+Example
+
+Publisher: http://localhost:4200?roomId=room&peerId=peer&produce=1&consume=1&videoCodec=h264
+
+Subscriber: http://localhost:4200?roomId=room&peerId=subIdproduce=0&consume=1&videoCodec=h264
+
 
 # Mediasoup3 WS Demo
 
